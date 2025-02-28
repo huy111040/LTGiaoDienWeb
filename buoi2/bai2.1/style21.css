@@ -1,0 +1,23 @@
+
+.doan1 {
+    color: red;
+
+    text-align: left;
+}
+
+.doan2 {
+    color: blue;
+
+    text-align: left;
+}
+
+.doan3 {
+    color: green;
+
+    text-align: left;
+}
+
+.sao {
+    font-weight: bold; /* In đậm */
+    color: brown;
+}

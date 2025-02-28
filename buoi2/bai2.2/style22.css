@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+h2  {
+    font-weight: bold;
+    color: #b12be2;
+    background-color: rgba(138, 43, 226, 0.38);
+}
+div {
+    background-color: bisque;
+}
+.kho1{
+    color: blue;
+}
+.kho2{
+    color: red;
+}
+.kho3{
+    color: green;
+}
+
