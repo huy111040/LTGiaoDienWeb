@@ -1,0 +1,41 @@
+body {
+    text-align: left;
+}
+
+header, footer {
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #e0e0e0;
+}
+
+header {
+    background: #FF9966;
+}
+
+footer {
+    background: #FF3399;
+}
+
+.container {
+    display: flex;
+    height: 500px;
+}
+
+aside {
+    width: 25%;
+    background: #33FF33;
+    padding: 20px;
+    color: white;
+    border: 1px solid #e0e0e0;
+}
+
+article {
+    width: 75%;
+    background: #0033CC;
+    padding: 20px;
+    color: white;
+    border: 1px solid #e0e0e0;
+}
+
+
