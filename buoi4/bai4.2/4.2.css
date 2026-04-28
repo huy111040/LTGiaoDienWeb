@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header, nav, article, aside, footer {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color: orange;
+}
+
+nav {
+    background-color: teal;
+}
+
+article {
+    background-color: yellowgreen;
+    flex: 3;
+}
+
+aside {
+    background-color: crimson;
+    flex: 1;
+}
+
+footer {
+    background-color: plum;
+}
+
+.main {
+    display: flex;
+}

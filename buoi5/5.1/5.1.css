@@ -1,0 +1,40 @@
+.navbar-alibaba {
+    width: 1440px;
+    height: 56px;
+    border: 1px solid #E0E0E0;
+}
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px 20px;
+    border-bottom: 3px solid #e0e0e0;
+    font-size: 14px;
+}
+
+.menu-left, .menu-right {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.menu-icon {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.top-nav span {
+    cursor: pointer;
+    color: #333;
+}
+
+.top-nav span i {
+    font-size: 12px;
+}
+
+.menu-right img {
+    width: 16px;
+    height: 12px;
+    margin-left: 5px;
+}
